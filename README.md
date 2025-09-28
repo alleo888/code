@@ -1,6 +1,6 @@
 # Data Scientist
 
-![EEG Band Discovery] (/assets/img/Leo's photo (edited).png)
+![wow](/assets/img/Leo.png)
 
 
 
