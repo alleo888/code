@@ -1,5 +1,9 @@
 # Data Scientist
 
+![EEG Band Discovery] (/assets/img/Leo's photo (edited).png)
+
+
+
 ### Education
 Physics, Phd
 
