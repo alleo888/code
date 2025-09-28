@@ -1,6 +1,6 @@
 title: Minimal theme
 logo: /assets/img/Leo.png
 description: MKLove is glees.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
