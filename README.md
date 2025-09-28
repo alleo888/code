@@ -1,6 +1,6 @@
 # Data Scientist
 
-![wow](/assets/img/Leo.png)
+![wow] (/assets/img/Leo.png)
 
 
 
